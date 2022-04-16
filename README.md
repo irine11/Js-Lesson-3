@@ -1,2 +1,2 @@
-# Js-Lesson-3-
+# Js-Lesson-3
 Array Methods
